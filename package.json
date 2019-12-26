@@ -1,0 +1,21 @@
+{
+  "name": "thermall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "yargs": "^15.0.2"
+  },
+  "bin": {
+    "termall": "./bin/index.js"
+  }
+}
